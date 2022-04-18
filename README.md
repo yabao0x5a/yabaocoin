@@ -1,6 +1,6 @@
 ## 🔗 Links
 
-- [Home page](https://yabaocoin.com/)
+- [Home page](yabaocoin.com/)
 - [https://www.hostinger.com/](https://www.hostinger.com/)
 - [https://vitejs.dev/](https://vitejs.dev/)
 - [https://tailwindcss.com/](https://tailwindcss.com/)
